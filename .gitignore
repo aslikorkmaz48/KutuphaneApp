@@ -1,0 +1,4 @@
+# Visual Studio geçici dosyaları
+.vs/
+bin/
+obj/
